@@ -1,0 +1,39 @@
+*{
+	background-color:gray;
+	font-size:20px;
+}
+img{
+	width:500px;
+	height:300px;
+	padding:20px;
+}
+.a1{
+	filter:blur(2px);
+}
+.a2{
+	filter:brightness(150%);
+}
+.a3{
+	filter:contrest(50%);
+}
+.a4{
+	filter:drop-shadow(10px 10px 10px red);
+}
+.a5{
+	filter:grayscale(90%);;
+}
+.a6{
+	filter:hue-rotate(50deg)
+}
+.a7{
+	filter:invert(100%);
+}
+.a8{
+	filter:opacity(0.4);
+}
+.a9{
+	filter:saturate(5);
+}
+.a10{
+	filter:sepia(50%)
+}
